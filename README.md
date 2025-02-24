@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software Engineering is a discipline focused on the systematic development of high-quality software products using engineering principles, methods and tools. Software Engineering plays a crucial role in the Technology Industry by enabling the creation of reliable, scalable and innovative software applications that meet users needs.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
@@ -22,6 +23,7 @@ Maintenance: providing ongoing support and update to the software after deployme
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall as one of the methods that guides software development process, is a sequential approach with distinct phases like requirement, design, implementation flowing downward like a waterfall while Agile Iterative and incremental approach focuses on flexibility, collaboration and responding to change
 
 
